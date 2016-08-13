@@ -1,0 +1,197 @@
+body {
+  padding-top: 30px;
+  padding-bottom: 100px;
+}
+
+.myjumbo h1 {
+  color: lightgray;
+  font-family: 'Papyrus';
+  font-size: 100px;
+  font-weight: 500;
+  
+ 
+  
+}
+h4 {
+  color: black ;
+  font-family: 'Papyrus';
+  font-size: 20px;
+  font-weight: 500;
+  border-style: inset;
+  border-color: dark;
+  border-width: 15px;
+  
+}
+
+h8{
+  color: black;
+  font-family: 'Tahoma';
+  font-size: 15px bold;
+  font-weight: 20;
+  border-width: 15px;
+  position: absolute;
+  left: 100px;
+  top: 72px;
+  
+  
+}
+h9{
+  color: black;
+  font-family: 'Tahoma';
+  font-size: 15px bold;
+  font-weight: 20;
+  border-width: 15px;
+  position: absolute;
+  left: 100px;
+  top: 114px;
+  
+}
+h10{
+  color: black;
+  font-family: 'Tahoma';
+  font-size: 15px bold;
+  font-weight: 20;
+  border-width: 15px;
+  position: absolute;
+  left: 100px;
+  top: 156px;
+  
+  
+}
+h11{
+  color: black;
+  font-family: 'Tahoma';
+  font-size: 15px bold;
+  font-weight: 20;
+  border-width: 15px;
+  position: absolute;
+  left: 100px;
+  top: 198px;
+  
+}
+
+.myjumbo p {
+  color: #f0f0f0;
+  font-family: 'Papyrus';
+  font-size: 30px;
+  font-weight: 700;
+}
+
+.btn-jumbo {
+  color: brown ;
+  background: #f8f8f8;
+  background: transparent;
+  border: 1px solid red;;
+  margin: -4px;
+  font-family: 'Papyrus';
+  font-size: 20px;
+  font-weight: 700;
+}
+
+@media (max-width: 979px) {
+  body {
+    padding-top: 0px;
+  }
+}
+
+.skill-logo {
+  font-size: 50px;
+  }
+
+.bg-gray {
+  background-color: #f8f8f8;
+}
+
+.bg-light-gray {
+  background-color: #f0f0f0;
+}
+
+.border {
+  border-color: black;
+  border-style: solid;
+  border-width: 5px 0px 5px 0px;
+}
+
+#headshot {
+  margin: 20px;
+  border-style: solid;
+   border-color: black;
+  
+  border-width: 35px;
+}
+
+#welcome {
+  /*background: url("FOR TESTING");*/
+  background: url("http://www.wallpaper1080hd.com/Picture/allimg/c120725/13431V31U5140-131O.jpg");
+  
+  background-size: cover;
+  padding-top: 10px;
+  height: 450px;
+  background-position: 67% -150px;
+  background-repeat: no-repeat;
+  background-attachment: fixed;
+  background-size: fixed;
+  margin-top: 0px;
+  margin-left: 0px;
+  margin-right: 0px;
+  margin-bottom: 0px;
+  color: white;
+}
+
+#goodbye {
+  background: url("http://www.wallpaper1080hd.com/Picture/allimg/c120725/13431V31U5140-131O.jpg");
+  background-size: fixed;
+  color: black;
+  background-size: cover;
+  height: 50px;
+  background-position: 67% 0px;
+  background-repeat: no-repeat;
+  background-attachment: fixed;
+  background-size: fixed;
+  margin-top: 0px;
+  margin-left: -15px;
+  margin-right: -15px;
+}
+
+.space-maker {
+  padding: 8px;
+}
+
+.container {
+  padding: 1px;
+  
+}
+
+.progress {
+  width: 350px;
+}
+
+
+.thumbnail {
+  padding: 0 0 5px 20;
+  border: inset;
+  border-color: black;
+  background-color: #f8f8f8;
+  border-radius: 0;
+}
+
+a:hover {
+  font-weight: bold;
+  text-decoration: none;
+  color: red;
+}
+
+.thumbnail img {
+  width: 90%;
+  height: 50%;
+  margin-bottom: 10px;
+}
+
+.footer-icon {
+  color: brown;
+  }
+.glyphicon  {
+  color: brown;
+  
+  
+}
