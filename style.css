@@ -69,6 +69,17 @@ h11{
   top: 198px;
   
 }
+h12{
+  color: black;
+  font-family: 'Tahoma';
+  font-size: 15px bold;
+  font-weight: 20;
+  border-width: 15px;
+  position: absolute;
+  left: 100px;
+  top: 240px;
+  
+}
 
 .myjumbo p {
   color: #f0f0f0;
